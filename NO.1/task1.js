@@ -133,7 +133,6 @@ var optionLine = {
   },
   tooltip: {
     formatter: function(params) {
-      console.log(params);
       var text = params[0].name + '<br/>';
       params.forEach(function(value, index) {
         if (value.seriesName !== '售出率') {
