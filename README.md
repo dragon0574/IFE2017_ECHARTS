@@ -1,2 +1,2 @@
 # IFE2017_ECHARTS
-laern ehcarts
+学习web前端数据可视化，掌握echarts用法和常见图表知识
